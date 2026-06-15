@@ -51,6 +51,3 @@ Contains:
  Folder:
  One-Sample Binomial Proportion test
  
-
-Folder:
-Linear_Models
